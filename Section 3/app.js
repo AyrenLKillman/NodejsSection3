@@ -34,8 +34,21 @@
 
 
 //----------------------------------------------------------------//
-const validator = require('validator')
+//const validator = require('validator')
+//console.log(validator.isEmail('Bob@example.com'))
+//console.log(validator.isURL('https://getbootstrap.com'))
 
-console.log(validator.isEmail('Bob@example.com'))
+//Challenge 3
+//TODO install chalk
+//TODO load it into app.js
+//TODO make it print a string in green in the console
 
-console.log(validator.isURL('https://getbootstrap.com'))
+//const chalk = require('chalk')
+//greentext = chalk.green("Greentextstuff")
+
+//console.log(greentext)
+//! idk if i cant read, but this will not function :(
+
+//----------------------------------------------------------------//
+//use of nodemon
+console.log('bruh')
