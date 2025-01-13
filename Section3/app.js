@@ -43,12 +43,9 @@
 //TODO load it into app.js
 //TODO make it print a string in green in the console
 
-//const chalk = require('chalk')
-//greentext = chalk.green("Greentextstuff")
+import chalk from 'chalk';
 
-//console.log(greentext)
-//! idk if i cant read, but this will not function :(
-
+console.log(chalk.green.bold('this thing dont like me that much but it work'));
 //----------------------------------------------------------------//
 //use of nodemon
 console.log('bruh')
